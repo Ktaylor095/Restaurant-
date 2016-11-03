@@ -72,6 +72,9 @@ p{
   background-color: gray;
   text-decoration: none;
 }
+.buttonimage{
+  cursor: pointer;
+}
 .box1{
   border-style: hidden;
   text-align: center;
